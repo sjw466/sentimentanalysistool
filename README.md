@@ -12,3 +12,5 @@ DataAnalytics.scala contains the scala commands to be used in the Spark shell.
 
 bbc.csv contains all 2006 BBC news articles 
 
+The positive and negative word files are used for tokenization during the sentiment analysis
+
